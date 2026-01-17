@@ -1,6 +1,42 @@
 [
     {
+        "package": "contentid",
+        "url": "https://github.com/cboettig/contentid"
+    },
+    {
+        "package": "duckdbfs",
+        "url": "https://github.com/cboettig/duckdbfs"
+    },
+    {
+        "package": "EcoNetGen",
+        "url": "https://github.com/cboettig/EcoNetGen"
+    },
+    {
+        "package": "codemeta",
+        "url": "https://github.com/cboettig/codemeta"
+    },
+    {
+        "package": "knitcitations",
+        "url": "https://github.com/cboettig/knitcitations"
+    },
+    {
+        "package": "minioclient",
+        "url": "https://github.com/cboettig/minioclient"
+    },
+    {
+        "package": "neonstore",
+        "url": "https://github.com/cboettig/neonstore"
+    },
+    {
+        "package": "pmc",
+        "url": "https://github.com/cboettig/pmc"
+    },
+    {
         "package": "roxigraph",
         "url": "https://github.com/cboettig/roxigraph"
+    },
+    {
+        "package": "taxalight",
+        "url": "https://github.com/cboettig/taxalight"
     }
 ]
